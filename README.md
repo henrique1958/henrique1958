@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @henrique1958
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-  
+
 
 <!---
 henrique1958/henrique1958 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
